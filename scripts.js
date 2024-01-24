@@ -33,6 +33,6 @@ else if(
 } else {
     machineScoreNumber++
     machineScore.innerHTML = machineScoreNumber
-    result.innerHTML = "Você perdeu para a Alexa!! 😭​"
+    result.innerHTML = "Você perdeu!! 😭​"
 }
 }
