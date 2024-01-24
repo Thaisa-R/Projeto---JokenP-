@@ -1,6 +1,7 @@
 <h1>Projeto JokenPô</h1>
 
-<h2>O Projeto JokenPô, foi desenvolvido no meu aprendizado com JavaScript, evoluindo com: Math.floor e Math.random; Este jogo faz parte da infância de muitas crianças e adultos até hoje, joga-se o usuário e a máquina (neste caso: Alexa), o resultado vai atualizando apatir de cada rodada, basta somente clicar no botão de sua escolha (pedra, papel ou tesoura).</h2>
+<h2>O Projeto JokenPô, foi desenvolvido no meu aprendizado com JavaScript, evoluindo com: Math.floor e Math.random.
+Este jogo faz parte da infância de muitas crianças e adultos até hoje, joga o usuário e a máquina (neste caso: Alexa), o resultado vai atualizando apatir de cada jogada, basta somente clicar no botão de sua escolha (pedra, papel ou tesoura).</h2>
 
 <h3>Esse foi um projeto que eu aprendi no curso <a href="https://rodolfomori.com.br/devclub">DevClub</a>!</h3>
 <h4>Tecnologias utilizadas:</h4>
